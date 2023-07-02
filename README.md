@@ -2,17 +2,12 @@
 
 headlth planet からデータ収集するスクリプトです
 
-- Python 3.8.2
+- Python 3.10
 
 ## セットアップ
 
 ```
-$ python -m venv venv
-$ source venv/bin/activate
-or
-$ source venv/bin/activate.fish
-
-$ pip install -r requirements.txt
+$ poetry install
 ```
 
 ### アカウント登録と連携アプリを作成
