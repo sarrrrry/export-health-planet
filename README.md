@@ -1,6 +1,6 @@
 # DUMP HEALTH PLANET
 
-headlth planet からデータ収集するスクリプトです
+health planet からデータ収集するスクリプトです
 
 - Python 3.10
 
